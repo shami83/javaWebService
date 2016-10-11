@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/jars/jaxws-ri/lib/javax.annotation-api.jar"/>
+	<classpathentry kind="lib" path="C:/jars/jaxws-ri/lib/javax.xml.soap-api.jar"/>
+	<classpathentry kind="lib" path="C:/jars/jaxws-ri/lib/jaxb-api.jar"/>
+	<classpathentry kind="lib" path="C:/jars/jaxws-ri/lib/jaxb-core.jar"/>
+	<classpathentry kind="lib" path="C:/jars/jaxws-ri/lib/jaxb-impl.jar"/>
+	<classpathentry kind="lib" path="C:/jars/jaxws-ri/lib/jaxb-jxc.jar"/>
+	<classpathentry kind="lib" path="C:/jars/jaxws-ri/lib/jaxb-xjc.jar"/>
+	<classpathentry kind="lib" path="C:/jars/jaxws-ri/lib/jaxws-api.jar"/>
+	<classpathentry kind="lib" path="C:/jars/jaxws-ri/lib/jaxws-rt.jar"/>
+	<classpathentry kind="lib" path="C:/jars/jaxws-ri/lib/jaxws-tools.jar"/>
+	<classpathentry kind="lib" path="C:/jars/jaxws-ri/lib/gmbal-api-only.jar"/>
+	<classpathentry kind="lib" path="C:/jars/jaxws-ri/lib/management-api.jar"/>
+	<classpathentry kind="lib" path="C:/jars/jaxws-ri/lib/stax-ex.jar"/>
+	<classpathentry kind="lib" path="C:/jars/jaxws-ri/lib/streambuffer.jar"/>
+	<classpathentry kind="lib" path="C:/jars/jaxws-ri/lib/policy.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.6.0_45"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
